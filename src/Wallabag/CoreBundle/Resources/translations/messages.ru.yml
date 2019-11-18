@@ -238,6 +238,7 @@ entry:
         filtered_search: 'Отфильтрованные по поиску:'
         untagged: 'Записи без тегов'
         all: Все записи
+        # same_domain: Same domain
     list:
         number_on_the_page: '{0} Записей не обнаружено.|{1} Одна запись.|]1,Inf[ Найдено %count% записей.'
         reading_time: 'расчетное время чтения'

@@ -222,6 +222,7 @@ entry:
         filtered_search: 'Filtered by search:'
         untagged: Untagged entries
         all: All entries
+        same_domain: Same domain
     list:
         number_on_the_page: '{0} There are no entries.|{1} There is one entry.|]1,Inf[ There are %count% entries.'
         reading_time: estimated reading time

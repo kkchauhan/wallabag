@@ -162,6 +162,7 @@ entry:
         filtered_search: 'การค้นหาที่กลั่นกรอง:'
         untagged: 'รายการที่ไม่ได้แท็ก'
         all: 'รายการทั้งหมด'
+        # same_domain: Same domain
     list:
         number_on_the_page: '{0} ไม่มีรายการ|{1} มีหนึ่งรายการ|]1,Inf[ มี %count% รายการ'
         reading_time: 'ประเมินช่วงการอ่าน'

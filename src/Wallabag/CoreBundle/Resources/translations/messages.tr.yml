@@ -310,6 +310,7 @@ entry:
         filtered_search: 'Arama kriteri ile filtrele:'
         untagged: Etiketlenmemiş makaleler
         all: Tüm makaleler
+        # same_domain: Same domain
     search:
         placeholder: Neye bakıyordunuz?
     public:

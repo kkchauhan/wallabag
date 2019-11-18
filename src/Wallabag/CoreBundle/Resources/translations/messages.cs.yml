@@ -28,6 +28,7 @@ entry:
     page_titles:
         all: Všechny položky
         untagged: Položky bez štítků
+        # same_domain: Same domain
 menu:
     top:
         search: Hledat

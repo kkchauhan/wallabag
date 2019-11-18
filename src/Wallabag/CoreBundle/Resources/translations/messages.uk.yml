@@ -203,6 +203,7 @@ entry:
         filtered_search: 'Знайдено за запитом:'
         untagged: Статті без тегів
         all: Всі статті
+        # same_domain: Same domain
     list:
         number_on_the_page: '{0} Немає записів.|{1} Знайдено одну статтю.|]1,Inf[ Знайдено %count% статтю(ей).'
         reading_time: приблизний час читання

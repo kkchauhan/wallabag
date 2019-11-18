@@ -167,6 +167,7 @@ entry:
         filtered_search: 'Keresésre szűrve:'
         untagged: Címkézetlen bejegyzések
         all: Minden bejegyzés
+        # same_domain: Same domain
     list:
         number_on_the_page: '{0} Nincsenek bejegyzések.|{1} Egy bejegyzés.|]1,Inf[ %count% bejegyzés.'
         reading_time: becsült elolvasási idő

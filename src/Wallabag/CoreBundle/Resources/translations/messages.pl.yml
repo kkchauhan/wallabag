@@ -207,6 +207,7 @@ entry:
         filtered_search: 'Filtrowanie po wyszukiwaniu:'
         untagged: Odtaguj wpisy
         all: Wszystkie przedmioty
+        # same_domain: Same domain
     list:
         number_on_the_page: '{0} Nie ma wpisów.|{1} Jest jeden wpis.|]1,Inf[ Są %count% wpisy.'
         reading_time: szacunkowy czas czytania

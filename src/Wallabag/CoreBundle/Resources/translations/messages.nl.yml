@@ -699,6 +699,7 @@ entry:
         archived: Gearchiveerde items
         starred: Gemarkeerde items
         unread: Ongelezen items
+        # same_domain: Same domain
     default_title: Titel van het item
 ignore_origin_instance_rule:
     list:

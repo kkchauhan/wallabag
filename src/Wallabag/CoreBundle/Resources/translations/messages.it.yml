@@ -183,6 +183,7 @@ entry:
         filtered_search: 'Filtrati per ricerca:'
         untagged: Articoli non etichettati
         all: Tutti gli articoli
+        # same_domain: Same domain
     list:
         number_on_the_page: "{0} Non ci sono contenuti.|{1} C'è un contenuto.|]1,Inf[ Ci sono %count% contenuti."
         reading_time: tempo di lettura stimato

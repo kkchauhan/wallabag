@@ -135,6 +135,7 @@ entry:
         filtered: 'Entradas filtradas'
         filtered_tags: 'Filtrar por tags:'
         untagged: 'Entradas sem tags'
+        # same_domain: Same domain
     list:
         number_on_the_page: '{0} Não existem entradas.|{1} Existe uma entrada.|]1,Inf[ Existem %count% entradas.'
         reading_time: 'tempo estimado de leitura'

@@ -529,6 +529,7 @@ entry:
         untagged: Zapisi bez oznaka
         filtered_tags: 'Filtrirano po oznakama:'
         filtered_search: 'Filtrirano po pretrazi:'
+        # same_domain: Same domain
     metadata:
         reading_time_minutes_short: '%readingTime% min'
         added_on: Dodano

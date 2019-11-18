@@ -238,6 +238,7 @@ entry:
         filtered_search: '根据搜索筛选：'
         untagged: '无标签项目'
         all: '所有项目'
+        # same_domain: Same domain
     list:
         number_on_the_page: '{0} 没有对应项目。|{1} 有 1 个项目。|]1,Inf[ 有 %count% 个项目。'
         reading_time: '预计阅读时间'
